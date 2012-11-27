@@ -1,0 +1,38 @@
+/////////////////////////////////////
+# Batch
+# Release 1.1
+# 26.11.2012
+/////////////////////////////////////
+
+/////////////////////////////////////
+# Changes
+/////////////////////////////////////
+
+Unified all arrow forms.
+2px thick `+` and `-` now have rounded corners.
+Compose icon cutouts all 2px.
+Remade `@` symbol: poorly snapped points
+Remade add 'User' icons: poorly snapped points.
+Remade all round arrow icons.
+Remade all `Tag` icons.
+Remade `Folder - add`, `Folder - remove` icons.
+Remade `Cloud`, `Cloud - upload`, `Cloud - download`.
+Remade `Nib`.
+Remade `Add`, `Remove` and `Delete`.
+Remade `Book`, `Book - lines`.
+Remade `Flask - full`, `Flask - empty'.
+Remade `Pen` & `Compose-4`.
+Tweaked `Print` & `Shred` forms.
+
+/////////////////////////////////////
+# Additions
+/////////////////////////////////////
+
+Complete SVG kit.
+Complete 16x16, 32x32 & 64x64 PNGs.
+
+/////////////////////////////////////
+# Removed
+/////////////////////////////////////
+
+none
